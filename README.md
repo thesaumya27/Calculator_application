@@ -1,4 +1,4 @@
-Welcome to the Calculator Application 🎉
+***Welcome to the Calculator Application 🎉***
 
 This is a simple console-based calculator program written in Java that performs basic arithmetic operations. The application allows users to repeatedly choose an operation and input two numbers for calculation. It includes the following features:
 

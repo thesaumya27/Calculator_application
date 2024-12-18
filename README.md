@@ -6,7 +6,7 @@ This is a simple console-based calculator program written in Java that performs 
 
 Features:
 
-Arithmetic Operations: Supports addition (+), subtraction (-), multiplication (*), division (/), and modulo (%).
+*Arithmetic Operations*: Supports addition (+), subtraction (-), multiplication (*), division (/), and modulo (%).
 
 Input Validation: Ensures valid inputs for operations and handles errors like division by zero.
 

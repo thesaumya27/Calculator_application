@@ -4,22 +4,22 @@ This is a simple console-based calculator program written in Java that performs 
 
 
 
-Features:
+**Features**:
 
 *Arithmetic Operations*: Supports addition (+), subtraction (-), multiplication (*), division (/), and modulo (%).
 
-Input Validation: Ensures valid inputs for operations and handles errors like division by zero.
+*Input Validation*: Ensures valid inputs for operations and handles errors like division by zero.
 
-Interactive Interface: Guides the user with prompts and lets them choose whether to continue or exit the application.
+*Interactive Interface*: Guides the user with prompts and lets them choose whether to continue or exit the application.
 
-Retry Mechanism: Provides multiple attempts for valid input to avoid unexpected exits.
+*Retry Mechanism*: Provides multiple attempts for valid input to avoid unexpected exits.
 
 
-How to Use:
+**How to Use**:
 
 Run the program in your Java environment.
 
-Follow the prompts to:
+*Follow the prompts to*:
 
 Select an arithmetic operation (+, -, *, /, %).
 
@@ -30,10 +30,10 @@ View the result of the operation.
 Decide whether to continue or exit the application.
 
 
-Code Highlights:
+**Code Highlights**:
 
-User-Friendly Input Handling: Includes input validation to ensure smooth user experience.
+*User-Friendly Input Handling*: Includes input validation to ensure smooth user experience.
 
-Exit Logic: Implements a retry mechanism for invalid inputs, with a forced exit after exceeding retries.
+*Exit Logic*: Implements a retry mechanism for invalid inputs, with a forced exit after exceeding retries.
 
-Clean Design: Modular methods for operations and input handling, ensuring readability and maintainability.
+*Clean Design*: Modular methods for operations and input handling, ensuring readability and maintainability.

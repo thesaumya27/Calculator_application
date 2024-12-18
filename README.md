@@ -22,8 +22,11 @@ Run the program in your Java environment.
 Follow the prompts to:
 
 Select an arithmetic operation (+, -, *, /, %).
+
 Input two numbers for the chosen operation.
+
 View the result of the operation.
+
 Decide whether to continue or exit the application.
 
 

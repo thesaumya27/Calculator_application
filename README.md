@@ -1,10 +1,10 @@
-***Welcome to the Calculator Application 🎉***
+# Welcome to the Calculator Application 🎉
 
 This is a simple console-based calculator program written in Java that performs basic arithmetic operations. The application allows users to repeatedly choose an operation and input two numbers for calculation. It includes the following features:
 
 
 
-**Features**:
+ ## Features:
 
 *Arithmetic Operations*: Supports addition (+), subtraction (-), multiplication (*), division (/), and modulo (%).
 
@@ -15,7 +15,7 @@ This is a simple console-based calculator program written in Java that performs 
 *Retry Mechanism*: Provides multiple attempts for valid input to avoid unexpected exits.
 
 
-**How to Use**:
+## How to Use:
 
 Run the program in your Java environment.
 
@@ -30,7 +30,7 @@ View the result of the operation.
 Decide whether to continue or exit the application.
 
 
-**Code Highlights**:
+## Code Highlights:
 
 *User-Friendly Input Handling*: Includes input validation to ensure smooth user experience.
 
